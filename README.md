@@ -32,3 +32,19 @@ Heroku App : https://drugreviewsentimentanalysis.herokuapp.com/
 
 ![Alt Text](https://github.com/DheerajKumar97/Drug-review-sentiment-Analysis--Flask-Deployment-Heroku/blob/master/DRA%20Snapshots/variable%20details.jpg)
 
+## DEPLOYMENT OUTPUT
+
+![Alt Text](https://github.com/DheerajKumar97/Drug-review-sentiment-Analysis--Flask-Deployment-Heroku/blob/master/DRA%20Snapshots/Screenshot%20(117).png)
+
+## Sample EDA VISUALIZATIONS
+
+![Alt Text](https://github.com/DheerajKumar97/Drug-review-sentiment-Analysis--Flask-Deployment-Heroku/blob/master/DRA%20Snapshots/bar%201.jpg)
+
+![Alt Text](https://github.com/DheerajKumar97/Drug-review-sentiment-Analysis--Flask-Deployment-Heroku/blob/master/DRA%20Snapshots/bar%202.jpg)
+
+![Alt Text](https://github.com/DheerajKumar97/Drug-review-sentiment-Analysis--Flask-Deployment-Heroku/blob/master/DRA%20Snapshots/bar%203.jpg)
+
+![Alt Text](https://github.com/DheerajKumar97/Drug-review-sentiment-Analysis--Flask-Deployment-Heroku/blob/master/DRA%20Snapshots/bar%204.jpg)
+
+
+
