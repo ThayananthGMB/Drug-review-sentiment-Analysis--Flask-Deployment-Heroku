@@ -16,8 +16,15 @@ warnings.filterwarnings("ignore")
 #########################################################################################################
 ''' Loading Data'''
 #########################################################################################################
+server = 'DESKTOP-GQDTTAA'
+db = 'practice'
 
-df = pd.read_csv("E:\Downlload\drugsComTest_raw.tsv",error_bad_lines=False, sep='\t')
+conn = pyodbc.connect('DRIVER={SQL Server};SERVER='+server+';DATABASE='+db+';Trusted_Connection==yes')
+
+sql ="""
+SELECT * FROM drugsCom
+"""
+df = pd.read_sql(sql,conn)
 df
 ##########################################################################################################
 ''' DATA PREPROCESSING '''
